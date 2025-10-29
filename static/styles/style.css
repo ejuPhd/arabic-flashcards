@@ -103,7 +103,7 @@ body {
 
 .arabic-word {
     font-size: 4.5rem;
-    font-weight: bold;
+    font-weight: 400;
     margin-bottom: 15px;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
     font-family: 'Traditional Arabic', 'Times New Roman', serif;
@@ -299,8 +299,8 @@ body {
 
 .conjugation-arabic {
     font-family: 'Traditional Arabic', 'Times New Roman', serif;
-    font-size: 1.3rem;
-    font-weight: bold;
+    font-size: 1.7rem;
+    font-weight: 300;
     text-align: right;
     flex: 1;
     margin-left: 10px;
@@ -330,8 +330,8 @@ body {
 
 .sentence-arabic {
     font-family: 'Traditional Arabic', 'Times New Roman', serif;
-    font-size: 1.4rem;
-    font-weight: bold;
+    font-size: 1.7rem;
+    font-weight: 300;
     text-align: right;
     margin-bottom: 8px;
     line-height: 1.4;
@@ -436,11 +436,11 @@ body {
     }
 
     .conjugation-arabic {
-        font-size: 1.2rem;
+        font-size: 1.5rem;
     }
 
     .sentence-arabic {
-        font-size: 1.2rem;
+        font-size: 1.6rem;
     }
 }
 
@@ -459,7 +459,7 @@ body {
     }
 
     .arabic-word {
-        font-size: 2.8rem;
+        font-size: 2.9rem;
     }
 
     .sidebar {

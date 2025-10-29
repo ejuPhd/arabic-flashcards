@@ -54,6 +54,42 @@ class FlashcardManager:
                         "we": "نَكْتُبُ",
                         "they": "يَكْتُبُونَ"
                     }
+                },
+                "example_sentences": {
+                    "past": [
+                        {
+                            "arabic": "كَتَبَ الرَّسُولُ الرِّسَالَةَ أَمْسِ",
+                            "english": "The messenger wrote the letter yesterday.",
+                            "pronunciation": "Kataba ar-rasūlu ar-risālata amsi"
+                        },
+                        {
+                            "arabic": "كَتَبَتِ الطَّالِبَةُ الدَّرْسَ عَلَى السَّبُّورَةِ",
+                            "english": "The student (f) wrote the lesson on the board.",
+                            "pronunciation": "Katabati at-tālibatu ad-darsa ʻalā as-sabbūrati"
+                        },
+                        {
+                            "arabic": "كَتَبْنَا الْوَاجِبَ قَبْلَ الذَّهَابِ إِلَى الْمَدْرَسَةِ",
+                            "english": "We wrote the homework before going to school.",
+                            "pronunciation": "Katabnā al-wājiba qabla adh-dhahābi ilā al-madrasati"
+                        }
+                    ],
+                    "present": [
+                        {
+                            "arabic": "يَكْتُبُ الْكَاتِبُ رِوَايَةً جَدِيدَةً",
+                            "english": "The writer is writing a new novel.",
+                            "pronunciation": "Yaktubu al-kātibu riwāyatan jadīdatan"
+                        },
+                        {
+                            "arabic": "تَكْتُبُ الطِّفْلَةُ أَسْمَاءَ الْأَلْوَانِ",
+                            "english": "The little girl is writing the names of colors.",
+                            "pronunciation": "Taktubu at-tiflu asmāʼa al-alwāni"
+                        },
+                        {
+                            "arabic": "نَكْتُبُ الْعَرَبِيَّةَ مِنَ الْيَمِينِ إِلَى الْيَسَارِ",
+                            "english": "We write Arabic from right to left.",
+                            "pronunciation": "Naktubu al-ʻarabiyyata mina al-yamīni ilā al-yasāri"
+                        }
+                    ]
                 }
             },
             {
@@ -78,6 +114,42 @@ class FlashcardManager:
                         "we": "نَقْرَأُ",
                         "they": "يَقْرَؤُونَ"
                     }
+                },
+                "example_sentences": {
+                    "past": [
+                        {
+                            "arabic": "قَرَأَ الْكِتَابَ كُلَّهُ فِي يَوْمٍ وَاحِدٍ",
+                            "english": "He read the entire book in one day.",
+                            "pronunciation": "Qaraʼa al-kitāba kullahū fī yaumin wāḥidin"
+                        },
+                        {
+                            "arabic": "قَرَأَتِ الْجَرِيدَةَ صَبَاحَ الْيَوْمِ",
+                            "english": "She read the newspaper this morning.",
+                            "pronunciation": "Qaraʼati al-jarīdata ṣabāḥa al-yawmi"
+                        },
+                        {
+                            "arabic": "قَرَأْنَا الْقُرْآنَ فِي الْمَسْجِدِ",
+                            "english": "We read the Quran in the mosque.",
+                            "pronunciation": "Qaraʼnā al-qurʼāna fī al-masjidi"
+                        }
+                    ],
+                    "present": [
+                        {
+                            "arabic": "يَقْرَأُ الْأَطْفَالُ قِصَّةً قَبْلَ النَّوْمِ",
+                            "english": "The children read a story before sleep.",
+                            "pronunciation": "Yaqraʼu al-aṭfālu qiṣṣatan qabla an-nawmi"
+                        },
+                        {
+                            "arabic": "تَقْرَأُ الْبِنْتُ دَرْسَهَا بِصَوْتٍ عَالٍ",
+                            "english": "The girl reads her lesson in a loud voice.",
+                            "pronunciation": "Taqraʼu al-bintu darsahā biṣawtin ʻālin"
+                        },
+                        {
+                            "arabic": "نَقْرَأُ الْكُتُبَ الْعِلْمِيَّةَ لِلتَّعَلُّمِ",
+                            "english": "We read scientific books for learning.",
+                            "pronunciation": "Naqraʼu al-kutuba al-ʻilmiyyata li at-taʻallumi"
+                        }
+                    ]
                 }
             },
             {
@@ -102,6 +174,42 @@ class FlashcardManager:
                         "we": "نَدْرُسُ",
                         "they": "يَدْرُسُونَ"
                     }
+                },
+                "example_sentences": {
+                    "past": [
+                        {
+                            "arabic": "دَرَسَ الطَّالِبُ اللُّغَةَ الْعَرَبِيَّةَ سَنَةً كَامِلَةً",
+                            "english": "The student studied Arabic for a full year.",
+                            "pronunciation": "Darasa at-tālibu al-lughata al-ʻarabiyyata sanatan kāmilatan"
+                        },
+                        {
+                            "arabic": "دَرَسَتِ الْطَّالِبَةُ جَيِّدًا لِلِامْتِحَانِ",
+                            "english": "The student (f) studied well for the exam.",
+                            "pronunciation": "Darasati at-tālibatu jayyidan lil-imtiḥāni"
+                        },
+                        {
+                            "arabic": "دَرَسْنَا مَعًا فِي الْمَكْتَبَةِ",
+                            "english": "We studied together in the library.",
+                            "pronunciation": "Darasnā maʻan fī al-maktabati"
+                        }
+                    ],
+                    "present": [
+                        {
+                            "arabic": "يَدْرُسُ الطَّلَبَةُ فِي الْجَامِعَةِ",
+                            "english": "The students study at the university.",
+                            "pronunciation": "Yadrusu at-talabatu fī al-jāmiʻati"
+                        },
+                        {
+                            "arabic": "تَدْرُسُ الطِّفْلَةُ الرِّيَاضِيَّاتِ بِاهْتِمَامٍ",
+                            "english": "The little girl studies mathematics with interest.",
+                            "pronunciation": "Tadrusu at-tiflu ar-riyāḍiyyāti bi-ih timāmin"
+                        },
+                        {
+                            "arabic": "نَدْرُسُ التَّارِيخَ لِفَهْمِ الْحَاضِرِ",
+                            "english": "We study history to understand the present.",
+                            "pronunciation": "Nadrusu at-tārīkha lifahmi al-ḥāḍiri"
+                        }
+                    ]
                 }
             }
         ]
@@ -180,6 +288,7 @@ def next_card():
             'form': '',
             'pronunciation': '',
             'conjugations': {},
+            'example_sentences': {},
             'position': 0,
             'total': 0
         })
@@ -190,6 +299,7 @@ def next_card():
         'form': card.get('form', ''),
         'pronunciation': card.get('pronunciation', ''),
         'conjugations': card.get('conjugations', {}),
+        'example_sentences': card.get('example_sentences', {}),
         'position': flashcard_manager.get_current_position(),
         'total': flashcard_manager.get_total_cards()
     })
@@ -207,6 +317,7 @@ def previous_card():
             'form': '',
             'pronunciation': '',
             'conjugations': {},
+            'example_sentences': {},
             'position': 0,
             'total': 0
         })
@@ -217,6 +328,7 @@ def previous_card():
         'form': card.get('form', ''),
         'pronunciation': card.get('pronunciation', ''),
         'conjugations': card.get('conjugations', {}),
+        'example_sentences': card.get('example_sentences', {}),
         'position': flashcard_manager.get_current_position(),
         'total': flashcard_manager.get_total_cards()
     })
@@ -234,6 +346,7 @@ def first_card():
             'form': '',
             'pronunciation': '',
             'conjugations': {},
+            'example_sentences': {},
             'position': 0,
             'total': 0
         })
@@ -244,6 +357,7 @@ def first_card():
         'form': card.get('form', ''),
         'pronunciation': card.get('pronunciation', ''),
         'conjugations': card.get('conjugations', {}),
+        'example_sentences': card.get('example_sentences', {}),
         'position': flashcard_manager.get_current_position(),
         'total': flashcard_manager.get_total_cards()
     })
@@ -261,6 +375,7 @@ def last_card():
             'form': '',
             'pronunciation': '',
             'conjugations': {},
+            'example_sentences': {},
             'position': 0,
             'total': 0
         })
@@ -271,6 +386,7 @@ def last_card():
         'form': card.get('form', ''),
         'pronunciation': card.get('pronunciation', ''),
         'conjugations': card.get('conjugations', {}),
+        'example_sentences': card.get('example_sentences', {}),
         'position': flashcard_manager.get_current_position(),
         'total': flashcard_manager.get_total_cards()
     })
@@ -291,6 +407,7 @@ def go_to_card():
             'form': '',
             'pronunciation': '',
             'conjugations': {},
+            'example_sentences': {},
             'position': 0,
             'total': flashcard_manager.get_total_cards(),
             'error': True
@@ -302,6 +419,7 @@ def go_to_card():
         'form': card.get('form', ''),
         'pronunciation': card.get('pronunciation', ''),
         'conjugations': card.get('conjugations', {}),
+        'example_sentences': card.get('example_sentences', {}),
         'position': flashcard_manager.get_current_position(),
         'total': flashcard_manager.get_total_cards(),
         'error': False

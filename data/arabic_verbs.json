@@ -315,12 +315,12 @@
                     "they": "جَاءُوا"
                 },
                 "present": {
-                    "he": "يَأْتِي",
-                    "she": "تَأْتِي",
-                    "you_m": "تَأْتِي",
-                    "you_f": "تَأْتِينَ",
-                    "we": "نَأْتِي",
-                    "they": "يَأْتُونَ"
+                    "he": "يَجِيءُ",
+                    "she": "تَجِيءُ",
+                    "you_m": "تَجِيءُ",
+                    "you_f": "تَجِيئِينَ",
+                    "we": "نَجِيءُ",
+                    "they": "يَجِيئُونَ"
                 }
             },
             "example_sentences": {
@@ -343,19 +343,19 @@
                 ],
                 "present": [
                     {
-                        "arabic": "يَأْتِي إِلَى الْبَيْتِ بَعْدَ الْعَمَلِ",
+                        "arabic": "يَجِيءُ إِلَى الْبَيْتِ بَعْدَ الْعَمَلِ",
                         "english": "He comes home after work.",
-                        "pronunciation": "Ya'tī ilā al-bayti ba'da al-'amali"
+                        "pronunciation": "Yajī'u ilā al-bayti ba'da al-'amali"
                     },
                     {
-                        "arabic": "تَأْتِي مَعَ عَائِلَتِهَا",
+                        "arabic": "تَجِيءُ مَعَ عَائِلَتِهَا",
                         "english": "She comes with her family.",
-                        "pronunciation": "Ta'tī ma'a 'ā'ilatihā"
+                        "pronunciation": "Tajī'u ma'a 'ā'ilatihā"
                     },
                     {
-                        "arabic": "نَأْتِي إِلَى هَذَا الْمَكَانِ كُلَّ سَنَةٍ",
+                        "arabic": "نَجِيءُ إِلَى هَذَا الْمَكَانِ كُلَّ سَنَةٍ",
                         "english": "We come to this place every year.",
-                        "pronunciation": "Na'tī ilā hādhā al-makāni kulla sanatin"
+                        "pronunciation": "Najī'u ilā hādhā al-makāni kulla sanatin"
                     }
                 ]
             }

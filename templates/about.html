@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About - Arabic-English Flashcards</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles/style.css') }}">
+</head>
+
+<body>
+    <div class="container">
+        <div class="main-content">
+            <div class="header">
+                <h1>About Arabic-English Flashcards</h1>
+            </div>
+
+            <div class="about-content">
+                <p>This application contains {{ total_cards }} Arabic verbs with comprehensive learning materials.</p>
+                <!-- Add more about content as needed -->
+            </div>
+        </div>
+    </div>
+
+    <!-- FOOTER SECTION -->
+    <footer class="footer">
+        <div class="footer-content">
+            <p>
+                Arabic-English FlashCards is brought to you by
+                <a href="https://visioideas.net" target="_blank" class="footer-link">Visioideas.net</a> ({{ current_year
+                }})
+                under the MIT License.
+            </p>
+            <p>
+                This WebApp was developed by Dr. Earnest J. Ujaama for students and all learners of the Arabic language.
+            </p>
+        </div>
+    </footer>
+</body>
+
+</html>

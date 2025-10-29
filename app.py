@@ -1,6 +1,7 @@
 from flask import Flask, render_template, jsonify, request
 import json
 import os
+from datetime import datetime
 
 app = Flask(__name__)
 
@@ -270,10 +271,13 @@ flashcard_manager = FlashcardManager()
 def index():
     """Main page showing the flashcard"""
     current_card = flashcard_manager.get_current_card()
+    current_year = datetime.now().year
+
     return render_template('index.html',
                            card=current_card,
                            position=flashcard_manager.get_current_position(),
-                           total=flashcard_manager.get_total_cards())
+                           total=flashcard_manager.get_total_cards(),
+                           current_year=current_year)
 
 
 @app.route('/next')
@@ -430,6 +434,15 @@ def go_to_card():
 def get_all_cards():
     """Get all flashcards (for debugging)"""
     return jsonify(flashcard_manager.flashcards)
+
+
+@app.route('/about')
+def about():
+    """About page with application information"""
+    current_year = datetime.now().year
+    return render_template('about.html',
+                           current_year=current_year,
+                           total_cards=flashcard_manager.get_total_cards())
 
 
 if __name__ == '__main__':

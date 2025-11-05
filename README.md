@@ -177,7 +177,10 @@ Push to the branch (git push origin feature/amazing-feature)
 Open a Pull Request
 
 License:
-This project is licensed under the MIT License - see the LICENSE file for details.
+
+MIT License
+Copyright (c) 2025 Dr. Earnest J. Ujaama
+Permission is hereby granted, free of charge, to any person obtaining a copy...
 
 Acknowledgments:
 - Arabic language data compiled from various educational resources

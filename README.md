@@ -179,7 +179,7 @@ Open a Pull Request
 License:
 
 MIT License
-Copyright (c) 2025 Dr. Earnest J. Ujaama
+Copyright (c) 2025 Dr. Earnest J. Ujaama.
 Permission is hereby granted, free of charge, to any person obtaining a copy...
 
 Acknowledgments:
